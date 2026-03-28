@@ -1,0 +1,89 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2025-05-21 11:51+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+
+
+#:
+#: C:\Users\anasf\AppData\Roaming\nvda\addons\AITranslater\globalPlugins\AITranslater\__init__.py:32
+msgid ""
+"{error}\n"
+msgstr ""
+
+#:
+#: C:\Users\anasf\AppData\Roaming\nvda\addons\AITranslater\globalPlugins\AITranslater\__init__.py:36
+msgid "translation result"
+msgstr ""
+
+#:
+#: C:\Users\anasf\AppData\Roaming\nvda\addons\AITranslater\globalPlugins\AITranslater\__init__.py:42
+msgid "Invalid input: not text."
+msgstr ""
+
+#:
+#: C:\Users\anasf\AppData\Roaming\nvda\addons\AITranslater\globalPlugins\AITranslater\__init__.py:92
+msgid "input text"
+msgstr ""
+
+#:
+#: C:\Users\anasf\AppData\Roaming\nvda\addons\AITranslater\globalPlugins\AITranslater\__init__.py:97
+msgid "translate"
+msgstr ""
+
+#:
+#: C:\Users\anasf\AppData\Roaming\nvda\addons\AITranslater\globalPlugins\AITranslater\__init__.py:100
+msgid "close"
+msgstr ""
+
+#:
+#: C:\Users\anasf\AppData\Roaming\nvda\addons\AITranslater\globalPlugins\AITranslater\__init__.py:113
+#: C:\Users\anasf\AppData\Roaming\nvda\addons\AITranslater\globalPlugins\AITranslater\__init__.py:204
+msgid "AI translater"
+msgstr ""
+
+#:
+#: C:\Users\anasf\AppData\Roaming\nvda\addons\AITranslater\globalPlugins\AITranslater\__init__.py:182
+msgid "&model"
+msgstr ""
+
+#:
+#: C:\Users\anasf\AppData\Roaming\nvda\addons\AITranslater\globalPlugins\AITranslater\__init__.py:185
+msgid "trans&late to"
+msgstr ""
+
+#:
+#: C:\Users\anasf\AppData\Roaming\nvda\addons\AITranslater\globalPlugins\AITranslater\__init__.py:190
+msgid "use &dialog for results"
+msgstr ""
+
+#:
+#: C:\Users\anasf\AppData\Roaming\nvda\addons\AITranslater\globalPlugins\AITranslater\__init__.py:222
+msgid "open translation window"
+msgstr ""
+
+#:
+#: C:\Users\anasf\AppData\Roaming\nvda\addons\AITranslater\globalPlugins\AITranslater\__init__.py:227
+msgid "Translates clipboard text "
+msgstr ""
+
+#:
+#: C:\Users\anasf\AppData\Roaming\nvda\addons\AITranslater\globalPlugins\AITranslater\__init__.py:232
+msgid "Toggles translation of live text "
+msgstr ""
+
+#:
+#: C:\Users\anasf\AppData\Roaming\nvda\addons\AITranslater\globalPlugins\AITranslater\__init__.py:239
+msgid "translate last spoken text"
+msgstr ""
+
